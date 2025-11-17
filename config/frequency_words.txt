@@ -5,9 +5,6 @@ DeepSeek
 鸿蒙
 HarmonyOS
 
-比亚迪
-王传福
-
 大疆
 DJI
 
@@ -23,11 +20,6 @@ DJI
 流浪地球
 刘慈欣
 郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -96,3 +88,4 @@ ai
 宇宙
 飞船
 航空
+atlas
