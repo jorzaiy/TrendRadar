@@ -107,3 +107,7 @@ platforms:
     name: "GitHub"
   - id: "v2ex"
     name: "V2EX"
+  - id: "sspai"
+    name: "少数派"
+  - id: "jin10"
+    name: "金十数据"
